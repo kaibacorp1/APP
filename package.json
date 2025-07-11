@@ -1,0 +1,14 @@
+{
+  "name": "sun-transit-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "tracker.js",
+  "scripts": {
+    "start": "node tracker.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.8",
+    "suncalc": "^1.9.0"
+  }
+}
