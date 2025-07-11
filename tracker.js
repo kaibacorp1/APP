@@ -2,6 +2,8 @@ import fetch from 'node-fetch';
 import nodemailer from 'nodemailer';
 import SunCalc from 'suncalc';
 
+console.log("🚀 Tracker started...");
+
 const LAT = -43.154289;
 const LON = 172.738596;
 const ELEV = 41.0;
