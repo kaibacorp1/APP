@@ -7,7 +7,7 @@ processes = []
   builtin = "node"
 
 [env]
-PORT = "8080"
+  PORT = "8080"
 
 [experimental]
-auto_rollback = true
+  auto_rollback = true
